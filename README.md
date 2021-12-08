@@ -1,6 +1,6 @@
 # praktikum
 
-In "praktikum" there are some of my projects made during training in Yandex Praktikum.
+Here are part of my projects made during training in Yandex Praktikum.
 
 # Projects
 ## Car price prediction
