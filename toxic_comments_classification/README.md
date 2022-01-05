@@ -7,4 +7,4 @@ For feature engineering, TF-IDF was used. Following libraries were used: pandas,
 
 ## Results
 
-Data were preprocessed (stopwords and cymbols were removed). TF-IDF values of words were used as features. The best F1 score on test (0.79) was achieved for linear regression model trained on uni- and bigramms.
+Data were preprocessed (stopwords and cymbols were removed). TF-IDF values of words were used as features. The best F1 score was achieved for linear regression model trained on uni- and bigramms.
