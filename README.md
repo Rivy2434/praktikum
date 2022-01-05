@@ -1,21 +1,14 @@
 # praktikum
 
-Here are part of my projects made during training in Yandex Praktikum.
+praktikum is the repository of my projects made during training in Yandex Praktikum
 
-# Projects
-## Car price prediction
+## Projects descriptions
 
-This project aims to create a model capable of fast cars price prediction based on their characteristics. For this purpose the historical data of car sales compiled from different sources were used. There are technical characteristics, prices, vehicle configurations.
+Following projects were made during training in Yandex Praktikum on the  "Data Science" course.
 
-It was important to compare different models and choose the best taking into account:
+| name                                                                                                           | description                                                     | used libraries                                            |
+|----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------|
+| [Car price prediction](https://github.com/Rivy2434/praktikum/tree/main/car_price_prediction)                   | Model for car price prediction based on their characteristics.  | pandas, matplotlib, sklearn, lightgbm                     |
+| [Toxic comments classification](https://github.com/Rivy2434/praktikum/tree/main/toxic_comments_classification) | Classification of toxic comments.                               | pandas, nltk, sklearn, matplotlib, lightgbm, torch, spacy |
 
-metric score (RMSE)
-prediction speed
-model training time
-Following libraries were used: pandas, matplotlib, sklearn, lightgbm  
 
-## Toxic comments classification
-
-This project aimed to create a model which can distinguish toxic and non-toxic comments with a minimum F1 score of 0.75.
-Labeled data contains text comment in text and target in toxic. For feature engineering, TF-IDF was used. 
-Following libraries were used: pandas, nltk, sklearn, matplotlib, lightgbm, torch, spacy
