@@ -1,10 +1,10 @@
 # practicum
 
-practicum is the repository of some of my projects made during training in Yandex Praktikum
+practicum is the repository of some of my projects made during training in Yandex Practicum
 
 ## Projects descriptions
 
-Following projects were made during training in Yandex Praktikum on the  "Data Science" course.
+Following projects were made during training in Yandex Practicum on the  "Data Science" course.
 
 | name                                                                                                           | description                                                     | used libraries                                            |
 |----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------|
