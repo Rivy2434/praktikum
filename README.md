@@ -1,6 +1,6 @@
-# practicum
+# praktikum
 
-practicum is the repository of some of my projects made during training in Yandex Practicum
+praktikum is the repository of some of my projects made during training in Yandex Practicum
 
 ## Projects descriptions
 
